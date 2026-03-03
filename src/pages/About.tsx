@@ -49,11 +49,7 @@ const About = () => {
               I am an <span className="text-cyan-400 font-semibold">ICT undergraduate student</span> at the University of Kelaniya 
               with a strong passion for <span className="text-cyan-400 font-semibold">Full Stack Development</span>, and digital creativity.
             </p>
-            <p className="text-gray-400 leading-relaxed">
-              As the <span className="text-blue-400 font-semibold">President of the Science Association</span> 
-              and <span className="text-purple-400 font-semibold">Founder of Spark Solution</span>, I enjoy leading teams, building 
-              impactful digital solutions, and solving real-world problems using technology.
-            </p>
+            
           </div>
           
           {/* Stats Cards */}
